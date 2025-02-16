@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-#include "div.h"
 #include "multi.h"
 
 int main() {
